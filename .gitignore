@@ -1,0 +1,14 @@
+pulse/
+spotify/
+discord/
+librewolf/
+gh/
+
+**/.git/
+**/.git/*
+nvim/nvim.log
+nvim/nvim-pack-lock.json
+
+go/telemetry/
+user-dirs.dirs
+
