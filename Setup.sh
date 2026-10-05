@@ -17,7 +17,10 @@ sudo pacman -Sy xorg-xrandr xorg-server xorg-xinit libx11 libxinerama libxft web
 sudo pacman -Sy nvidia-open nvidia-utils lib32-nvidia-utils
 
 #Dev stuff
-sudo pacman -Sy bear shaderc vulkan-devel tree-sitter-cli llvm clang lldb
+sudo pacman -Sy bear shaderc vulkan-devel tree-sitter-cli llvm clang lldb glfw
+
+#Fonts
+sudo pacman -Sy noto-fonts-cjk noto-fonts noto-fonts-emoji noto-fonts-extra ttf-jetbrains-mono-nerd
 
 #Extra
-sudo pacman -Sy yazi librewolf github-cli unzip xwallpaper wl-clipboard noto-fonts noto-fonts-emoji noto-fonts-extra ttf-jetbrains-mono-nerd bluetui fastfetch discord spotify-launcher
+sudo pacman -Sy yazi librewolf github-cli unzip xwallpaper wl-clipboard bluetui fastfetch discord spotify-launcher
