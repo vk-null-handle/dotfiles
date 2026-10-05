@@ -7,7 +7,7 @@ gh/
 **/.git/
 **/.git/*
 nvim/nvim.log
-nvim/nvim-pack-lock.json
+nvim/lazy-lock.json
 
 go/telemetry/
 user-dirs.dirs
