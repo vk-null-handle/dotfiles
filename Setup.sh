@@ -23,4 +23,4 @@ sudo pacman -Sy bear shaderc vulkan-devel tree-sitter-cli llvm clang lldb glfw
 sudo pacman -Sy noto-fonts-cjk noto-fonts noto-fonts-emoji noto-fonts-extra ttf-jetbrains-mono-nerd
 
 #Extra
-sudo pacman -Sy yazi librewolf github-cli unzip xwallpaper wl-clipboard bluetui fastfetch discord spotify-launcher
+sudo pacman -Sy yazi librewolf github-cli unzip xwallpaper wl-clipboard bluetui fastfetch discord spotify-launcher maim
